@@ -1,0 +1,5 @@
+{
+  "name": "Next Motors Sales Dashboard Simples",
+  "description": "An online dashboard to display sales performance metrics for Next Motors, fetching data directly from a centralized Google Sheet.",
+  "requestFramePermissions": []
+}
